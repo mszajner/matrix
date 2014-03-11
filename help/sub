@@ -1,0 +1,15 @@
+
+Skladnia polecenia:
+
+	sub output comp1 comp2
+
+	output - A-Z|a-z - macierz lub zmienna wyjsciowa
+	comp1 - A-Z|a-z|number - odjemna
+	comp2 - A-Z|a-z|number - odjemnik
+
+		output = comp1 - comp2
+
+Funkcja odejmuje podane liczby/macierze. Jesli wynik odejmowania chcemy
+zapisac do macierzy, to chociaz jeden skladnik roznicy musi rowniez 
+byc macierza. Jesli wynik odejmowania chcemy zapisac do zmiennej, to 
+skladnikami odejmowania nie moga byc macierze. 

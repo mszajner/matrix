@@ -1,0 +1,17 @@
+
+Skladnia polecenia:
+
+	div output comp1 comp2
+
+	output - A-Z|a-z - macierz lub zmienna wyjsciowa
+	comp1 - A-Z|a-z|number - licznik
+	comp2 - A-Z|a-z|number - mianownik
+
+		output = comp1 / comp2
+
+Funkcja dzieli podane liczby/macierze. Jesli wynik dzielenia chcemy 
+zapisac do macierzy, to chociaz jeden czynnik dzielenia musi rowniez 
+byc macierza. Jesli wynik dzielenia chcemy zapisac do zmiennej, to 
+czynnikami dzielenia nie moga byc macierze. 
+
+Uwaga! Nie zawsze mozna podzielic macierze!

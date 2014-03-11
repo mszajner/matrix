@@ -1,0 +1,16 @@
+
+Skladnia polecenia:
+
+	decompose A-Z bottom top
+
+	bottom - A-Z - dolna macierz wyjsciowa
+	top - A-Z - gorna macierz wyjsciowa
+
+Funkcja rozklada podana macierz na dwie macierze trojkatne - gorna
+i dolna. Rozklad spelnia wlasciwosc:
+
+			A = D * G, 
+
+gdzie 	A - macierz wejsciowa
+	D - macierz dolna
+	G - macierz gorna

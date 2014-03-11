@@ -1,0 +1,15 @@
+
+Skladnia polecenia:
+
+	mul output comp1 comp2
+
+	output - A-Z|a-z - macierz lub zmienna wyjsciowa
+	comp1 - A-Z|a-z|number - pierwszy czynnik
+	comp2 - A-Z|a-z|number - drugi czynnik
+
+		output = comp1 * comp2
+
+Funkcja mno¿y podane liczby/macierze. Jesli wynik mno¿enia chcemy 
+zapisac do macierzy, to chociaz jeden czynnik musi rowniez byc 
+macierza. Jesli wynik mnozenia chcemy zapisac do zmiennej, to 
+czynnikami nie moga byc macierze. 

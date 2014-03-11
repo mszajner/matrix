@@ -1,0 +1,15 @@
+
+Skladnia polecenia:
+
+	add output comp1 comp2
+
+	output - A-Z|a-z - macierz lub zmienna wyjsciowa
+	comp1 - A-Z|a-z|number - pierwszy skladnik sumy
+	comp2 - A-Z|a-z|number - drugi skladnik sumy
+
+		output = comp1 + comp2
+
+Funkcja sumuje podane skladniki. Jesli wynik sumy chcemy zapisac do
+macierzy, to chociaz jeden skladnik sumy musi rowniez byc macierza.
+Jesli wynik sumy chcemy zapisac do zmiennej, to skladnikami sumy nie
+moga byc macierze. 

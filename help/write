@@ -1,0 +1,12 @@
+
+Skladnia polecenia:
+
+	write A-Z|a-z [nazwa_pliku]
+
+Funkcja zapisuje macierz lub zmienna do pliku lub konsoli. Jesli nazwa
+pliku nie zostanie podana zostanie uzyta konsola. Funkcja zapisuje dane 
+w formacie tekstowym.
+Funkcja zapisuje najpierw ilosc wierszy i ilosc kolumn, a nastepnie
+rzedami komorki macierzy.
+
+Uwaga! Nazwa pliku nie moze zawierac spacji lub tabulacji!

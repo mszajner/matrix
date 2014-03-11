@@ -1,0 +1,9 @@
+
+Skladnia polecenia:
+
+	print A-Z|a-z|number [precision]
+
+	precision - a-z|number - dokladnosc
+
+Funkcja wyswietla macierz, zmienna lub liczbe na konsoli z podana 
+dokladnoscia.

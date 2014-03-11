@@ -1,0 +1,7 @@
+
+Skladnia polecenia:
+
+	det a-z A-Z
+
+Funkcja oblicza wyznacznik z podanej macierzy i zapisuje jego wartosc
+do podanej zmiennej. Podana macierz musi byc kwadratowa.

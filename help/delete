@@ -1,0 +1,7 @@
+
+Skladnia polecenia:
+
+	delete A-Z|a-z
+
+Funkcja usuwa macierz lub zeruje wartosc zmiennej. Po dzialaniu tej
+funkcji macierz jest zerowych wymiarach a wartosc zmiennej rowna sie 0.0.

@@ -1,0 +1,17 @@
+
+Skladnia polecenia:
+
+	new A-Z|a-z [rows columns] [value]
+
+	rows - a-z|number - ilosc wierszy
+	columns - a-z|number - ilosc kolumn
+	value - a-z|number - wartosc wypelnienia
+
+Funkcja tworzy nowa macierz o podanych wymiarach i wypelnia ja
+podana wartoscia. Jesli wartosc nie zostanie podana zostanie uzyta
+domyslna - 0.0. Podobnie funkcja ustawia nowa wartosc zmiennej.
+
+Przyklady:
+	new A 2 2 0.0
+	new a 12.23
+	new B 3 3

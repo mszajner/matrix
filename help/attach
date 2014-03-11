@@ -1,0 +1,11 @@
+
+Skladnia polecenia:
+
+	attach output input
+
+	output - A-Z - macierz wyjsciowa
+	input - A-Z - macierz wejsciowa
+
+Funkcja tworzy macierz dolaczona do macierzy "input" i wynik
+zapisuje w macierzy "output".
+

@@ -1,0 +1,7 @@
+
+Skladnia polecenia:
+
+	unit A-Z|a-z
+
+Funkcja wypelnia macierz tak, aby stala sie ona macierza jednostkowa.
+Jesli parametrem jest zmienna, to zmienna przyjmuje wartosc 1.0.

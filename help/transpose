@@ -1,0 +1,10 @@
+
+Skladnia polecenia:
+
+	transpose output input
+
+	output - A-Z - macierz wyjsciowa
+	input - A-Z - macierz wejsciowa
+
+Macierz tworzy macierz transponowana do macierzy "input" i wynik zapisuje
+w macierzy "output".

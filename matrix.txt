@@ -1,0 +1,5 @@
+read A matrixA.txt
+read B matrixB.txt
+mul C B A
+write C matrixC.txt
+print C 2

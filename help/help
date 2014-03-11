@@ -1,0 +1,36 @@
+
+Skladnia polecenia:
+
+	help [name] - wywoluje dokladny opis funkcji
+
+	name - nazwa funkcji
+
+Standard opisu uzyty w pomocy:
+ - macierze:             A-Z
+ - zmienne:              a-z
+ - liczba:               number
+ - opcjonalny parametr:  []
+ - alternatywa opcji:    |
+ - koniunkcja opcji:     &
+
+Dostepne funkcje:
+	new - tworzy nowa macierz lub ustawia wartosc zmiennej
+	delete - usuwa macierz lub zeruje zmienna
+	read - odczytuje macierz lub zmienna z pliku lub konsoli
+	write - zapisuje macierz lub zmienna do pliku lub konsoli
+	print - wyswietla macierz, zmienna lub wartosc na konsoli
+	info - wyswietla informacje o macierzy lub zmiennej
+	fill - wypelnia macierz podana wartoscia
+	copy - kopiuje macierz/zmienna do innej macierzy/zmiennej
+	unit - tworzy z podanej macierzy macierz jednostkowa
+	decompose - rozklada podana macierz na dwie macierze trojkatne
+	det - wylicza wyznacznik z macierzy kwadratowej
+	transpose - tworzy macierz transponowana
+	minor - tworzy minor (macierz) z macierzy
+	supplement - tworzy macierz dopelnien algebraicznych
+	attach - tworzy macierz dolaczona
+	inv - tworzy macierz odwrotna
+	add - dodaje macierze lub zmienne
+	sub - odejmuje macierze lub zmienne
+	mul - mnozy macierze lub zmienne
+	div - dzieli macierze lub zmienne

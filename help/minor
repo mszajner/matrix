@@ -1,0 +1,12 @@
+
+Skladnia polecenia:
+
+	minor output input row column
+
+	output - A-Z - macierz wyjsciowa
+	input - A-Z - macierz wejsciowa
+	row - wiersz minora
+	column - kolumna minora
+
+Funkcja tworzy minor (row, column) z macierzy "input" i zapisuje nowa
+macierz do macierzy "output".

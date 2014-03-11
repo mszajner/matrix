@@ -1,0 +1,20 @@
+
+Skladnia polecenia:
+
+	copy dest src [destR destC srcR1 srcC1 srcR2 srcC2]
+	
+	dest  - A-Z|a-z - cel
+	src   - A-Z|a-z - zrodlo
+	
+Ponizsze parametry nie dotycza podczas kopiowania zmiennych:
+
+	destR - docelowy wiersz
+	destC - docelowa kolumna
+	srcR1 - zrodlowy poczatkowy wiersz
+	srcC1 - zrodlowa poczatkowa kolumna
+	srcR2 - zrodlowy koncowy wiersz
+	srcC2 - zrodlowa koncowa kolumna
+
+Funkcja kopiuje macierz lub zmiennej do innej macierzy lub zmiennej. 
+Jesli macierz docelowa nie jest w stanie pomiescic kopiowanych 
+komorek, zostanie zwiekszona.

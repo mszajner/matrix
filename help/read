@@ -1,0 +1,13 @@
+
+Skladnia polecenia:
+
+	read A-Z|a-z [nazwa_pliku]
+
+Funkcja odczytuje macierz lub zmienna z pliku lub konsoli. Jesli nazwa
+pliku nie zostanie podana zostanie uzyta konsola.
+Funkcja wczytuje najpierw ilosc wierszy i ilosc kolumn. Nastepnie
+ustawia rozmiar podanej macierzy na wczytany i doczytuje komorki
+macierzy.
+
+Uwaga! Nazwa pliku nie moze zawierac spacji lub tabulacji!
+Uwaga! Format pliku musi byc tekstowy!

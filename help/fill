@@ -1,0 +1,8 @@
+
+Skladnia polecenia:
+
+	fill A-Z [value]
+
+	value - a-z|number - wartosc wypelnienia
+
+Funkcja wypelnia macierz podana wartoscia.
