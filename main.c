@@ -1,4 +1,3 @@
-
 #include <string.h>
 #include "matrix.h"
 #include "parser.h"
@@ -9,7 +8,7 @@ void main_about(FILE *file)
 	fputs("\n\nProjekt zaliczeniowy z \"Programowanie komputerow\"\n", file);
 	fputs("\nAutor:  Miroslaw Szajner", file);
 	fputs("\nRok:    2FD 2004/2005", file);
-	fputs("\nE-mail: noozy@tlen.pl\n", file);
+	fputs("\nE-mail: mszajner@rexoft.pl\n", file);
 	fputs("\nWpisz \"help\" aby uzyskac pomoc...\n\n", file);
 }
 
